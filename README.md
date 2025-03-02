@@ -3,13 +3,13 @@
 
 ## 💻 Software Developer
 
-![Profile Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![Profile Banner]([https://in.linkedin.com/in/nik6348](https://media.licdn.com/dms/image/v2/D4D16AQGZOdVo9ryKSw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727547348183?e=1746662400&v=beta&t=crEXh_UxAXFgBB9kGOxVzSgYWjewJKONCf2O8lzAUAw))
 
 ### About Me
 I'm a passionate software developer focused on creating efficient and elegant solutions to complex problems. I enjoy working with modern technologies and constantly expanding my skill set.
 
 ### 📫 Contact
-- Email: (mailto:nikhil@singaji.in)
+- Email: [nikhil@singaji.in](mailto:nikhil@singaji.in)
 - LinkedIn: [Connect with me](https://in.linkedin.com/in/nik6348)
 
 ### 🚀 Skills
